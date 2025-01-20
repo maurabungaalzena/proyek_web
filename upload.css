@@ -1,0 +1,57 @@
+body{
+    background: linear-gradient(to bottom right, #4facfe, #00f2fe);
+}
+.navbar-logo {
+    height: 40px; 
+    width: auto;  
+}
+
+ /* Gunakan font Poppins */
+ body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right,rgb(230, 239, 248),rgb(228, 246, 247));
+}
+
+/* Gaya tambahan untuk kontainer form */
+.form-container {
+    max-width: 800px;
+    margin: 80px auto; /* Jarak dari navbar dan posisi di tengah */
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Gaya header form */
+.form-container h1 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #343a40;
+}
+
+/* Tombol unggah foto */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Navbar tetap tidak berubah */
+.navbar {
+    z-index: 1000; /* Agar tetap di atas elemen lain */
+}
+
+.navigasi{
+  background-color:rgb(255, 255, 255) !important;}
+
+.navbar-logo {
+height: 40px; /* Atur tinggi logo sesuai kebutuhan */
+width: auto;  /* Pastikan proporsi gambar tetap */
+}

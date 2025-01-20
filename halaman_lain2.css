@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background: linear-gradient(to right, rgb(94, 190, 235), #00f2fe); }
+.container { max-width: 800px; margin: auto; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); }
+img { max-width: 100%; height: auto; border-radius: 10px; }
+form { margin-top: 20px; }
+textarea, input { width: 100%; padding: 10px; margin-bottom: 10px; border-radius: 5px; border: 1px solid #ddd; }
+button { padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; }
+.delete-button { background: #f44336; color: white; }
+.edit-button { background: #4caf50; color: white; }

@@ -1,0 +1,16 @@
+.navbar-logo {
+    height: 40px; /* Atur tinggi logo sesuai kebutuhan */
+    width: auto;  /* Pastikan proporsi gambar tetap */
+}
+.navigasi{
+    background-color:rgb(255, 255, 255) !important;
+}
+body{
+    background: linear-gradient(to bottom right,rgb(230, 239, 248),rgb(228, 246, 247)) !important; 
+}
+
+p1{
+    font-weight: bold;
+}
+
+
